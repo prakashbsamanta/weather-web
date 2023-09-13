@@ -1,0 +1,17 @@
+Weather Web App
+Description
+The Weather Web App is a simple web application built with HTML, CSS, and JavaScript that allows users to search for the weather of different cities around the world. It provides real-time weather information, including temperature, weather conditions, and forecasts for a given location.
+
+Features
+City Search: Users can search for the weather of any city by entering the city name in the search bar.
+
+Weather Information: The app displays current weather information, including temperature (in Celsius or Fahrenheit), weather conditions (e.g., sunny, cloudy, rainy), and a brief description.
+
+Forecast: Users can also view a 3-day weather forecast for the selected city, including high and low temperatures.
+
+Technologies Used
+HTML: Used for creating the structure and content of the web page.
+
+CSS: Used for styling the user interface and making it visually appealing.
+
+JavaScript: Used for fetching weather data from an API, handling user interactions, and updating the UI dynamically.
